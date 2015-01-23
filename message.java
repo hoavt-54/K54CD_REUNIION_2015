@@ -39,6 +39,7 @@ private class K54cdReunionNotification{
 							.append("Hẹn gặp lại các bạn")
 		messageBuilder.append(THIS_MAIN_MESSAGE_CONTENT);
 		messageBuilder.append("\n\n\t\t\t\t\t\t\t\t\t Hoa Vu Trong");
+		System.out.println(messageBuilder.toString());
 		return;
 	}
 }
